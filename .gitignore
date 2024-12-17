@@ -16,3 +16,4 @@ Thumbs.db
 # project specific
 /config.json
 eslint.config.mjs
+cspell.json
